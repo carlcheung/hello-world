@@ -1,4 +1,5 @@
 # hello-world
 For tutorial
 
-I am so boring ahhhh...
+This is not a funny stuff. You have to learn and use it!
+Let's do it!
